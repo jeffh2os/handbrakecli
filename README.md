@@ -1,2 +1,2 @@
 # handbrakecli
-HandbrakeCli Script with variables to do batch conversion
+HandbrakeCli bash script with variables to do batch conversion
