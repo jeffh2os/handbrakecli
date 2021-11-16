@@ -1,4 +1,5 @@
-HandbrakeCli bash script with variables to do batch conversion
+HandbrakeCli bash script with variables to do batch conversion.
+
 Reqruies HandbrakeCLI from : https://handbrake.fr/
 
 This script can be placed anywhere.
