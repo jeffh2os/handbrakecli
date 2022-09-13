@@ -8,4 +8,4 @@ Make sure to use full paths.
 
 I have added all video and audio codecs possible with HandbrakeCLI as of the creation of this script.
 
-There only variables currently are video/audio and subtitles.
+The only variables currently are video/audio and subtitles.
